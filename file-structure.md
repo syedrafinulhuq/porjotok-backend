@@ -129,4 +129,3 @@ For the **Itinerary** feature:
 - **Scalability**: Makes it easier to scale the app by adding new features (new models, services, or controllers).
 - **Reusability**: Services can be reused across controllers, and models can be validated or transformed without impacting the controller logic.
 
-This structure will allow you to build the features in your travel app in a modular and organized way.
